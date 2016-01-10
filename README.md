@@ -1,0 +1,1 @@
+# Smoke test suite for Seedy Ron
